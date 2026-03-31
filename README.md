@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Akmal Izzat or preferred to  be called Jat, a student of Diploma in Computer Science in Kolej Professional Mara Indera Mahkota.
+I'm Jat , a student of Diploma in Computer Science in Kolej Professional Mara Indera Mahkota.
 
 My dream is to become a Software Engineer
 
@@ -17,7 +17,8 @@ Tools and Tech :
 
 
 
-This is LITERALLY the first readme i've write ever in this profile ( i dont have fkin idea what i'm currently writing now 💀 )
+This is LITERALLY the first readme i've write ever in this profile ( i dont have fkin idea what i'm currently writing now 💀 ) 
+
 Fun Fact : I'm an introvert, but i am currently working out on this 😹
 
 A bit ABOUT ME :
