@@ -4,9 +4,15 @@ I'm Akmal Izzat or preferred to  be called Jat, a student of Diploma in Computer
 
 My dream is to become a Software Engineer
 
-I recently learned Python, SQL and also Figma for creating UI
-
+I'm currently learning Python, SQL ,HTML,CSS, Javascript and also Figma for creating UI !
 This is a profile where I will be uploading works , project , and things that I currently working.
+
+
+
+Tools and Tech :
+
+- Python, SQL,HTML,CSS,Javascript
+- Figma, Canva, Word, Excel
 
 
 
@@ -16,8 +22,8 @@ Fun Fact : I'm an introvert, but i am currently working out on this 😹
 
 A bit ABOUT ME :
 
-I like taking care kittens , okay ? kitten only ! 🐱
-A simple person 
+- I like taking care kittens , okay ? kitten only ! 🐱 <--
+- A simple person 
 
 
 
