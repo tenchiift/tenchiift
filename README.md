@@ -19,12 +19,6 @@ Tools and Tech :
 
 This is LITERALLY the first readme i've write ever in this profile ( i dont have fkin idea what i'm currently writing now 💀 ) 
 
-Fun Fact : I'm an introvert, but i am currently working out on this 😹
-
-A bit ABOUT ME :
-
-- I like taking care kittens , okay ? kitten only ! 🐱 <--
-- A simple person 
 
 
 
