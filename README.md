@@ -1,52 +1,66 @@
 # Hi, I'm Jat 👋
 
-Diploma in Computer Science student at Kolej Profesional MARA Indera Mahkota with a strong interest in software development and technology-driven problem solving.
+Diploma in Computer Science student at Kolej Profesional MARA Indera Mahkota with a strong interest in software engineering, application development, and technology-driven problem solving.
 
-I am continuously developing my skills through academic projects, personal applications, and hands-on learning in web development, mobile development, databases, and UI/UX design.
+I enjoy building software solutions, exploring modern development technologies, and continuously improving my technical skills through projects, experimentation, and lifelong learning.
 
 ## About Me
 
-- Passionate about building software solutions for real-world problems
-- Interested in Software Engineering, Mobile Development, and Database Systems
-- Continuously learning modern development technologies and best practices
-- Building projects to strengthen both technical and problem-solving skills
+- 💻 Aspiring Software Engineer
+- 🚀 Passionate about developing solutions for real-world problems
+- 📱 Interested in Mobile and Web Application Development
+- 📚 Continuously learning and expanding my technical expertise
 
 ## Tech Stack
 
-### Programming Languages
+### Languages
 - Python
 - JavaScript
 - SQL
 
-### Frontend Development
+### Frontend
 - HTML
 - CSS
 
-### Frameworks & Platforms
+### Frameworks & Libraries
 - Laravel
 - React Native
-- Firebase
 
 ### Databases
 - MySQL
 - Firebase Firestore
 
-### Tools
+### Backend & Cloud Services
+- Firebase Authentication
+- Firebase Storage
+- Firebase
+
+### DevOps & Version Control
+- Git
 - GitHub
-- Visual Studio Code
+- Docker
+
+### Design & Prototyping
 - Figma
+- Claude Design
 
 ## Current Focus
 
-- Software Development
+- Software Engineering Fundamentals
+- Full-Stack Application Development
 - Mobile Application Development
-- Database Design and Management
-- UI/UX Design
-- Full-Stack Development
 
-## Portfolio
+## Featured Projects
 
-This profile serves as a collection of my projects, coursework, experiments, and learning journey as I work towards a career in Software Engineering.
+Projects and applications currently under development will be showcased here.
+
+## Goals
+
+- Build impactful software solutions
+- Strengthen software engineering skills
+- Contribute to meaningful projects
+- Grow as a professional developer
 
 ---
 
+> Building, learning, and improving one project at a time.
