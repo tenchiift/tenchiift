@@ -1,39 +1,52 @@
-## Hi there 👋
+# Hi, I'm Jat 👋
 
-I'm Jat , a student of Diploma in Computer Science in Kolej Professional Mara Indera Mahkota.
+Diploma in Computer Science student at Kolej Profesional MARA Indera Mahkota with a strong interest in software development and technology-driven problem solving.
 
-My dream is to become a Software Engineer
+I am continuously developing my skills through academic projects, personal applications, and hands-on learning in web development, mobile development, databases, and UI/UX design.
 
-I'm currently learning Python, SQL ,HTML,CSS, Javascript and also Figma for creating UI !
-This is a profile where I will be uploading works , project , and things that I currently working.
+## About Me
 
+- Passionate about building software solutions for real-world problems
+- Interested in Software Engineering, Mobile Development, and Database Systems
+- Continuously learning modern development technologies and best practices
+- Building projects to strengthen both technical and problem-solving skills
 
+## Tech Stack
 
-Tools and Tech :
+### Programming Languages
+- Python
+- JavaScript
+- SQL
 
-- Python, SQL,HTML,CSS,Javascript
-- Figma, Canva, Word, Excel
+### Frontend Development
+- HTML
+- CSS
 
+### Frameworks & Platforms
+- Laravel
+- React Native
+- Firebase
 
+### Databases
+- MySQL
+- Firebase Firestore
 
+### Tools
+- GitHub
+- Visual Studio Code
+- Figma
 
-This is LITERALLY the first readme i've write ever in this profile ( i dont have fkin idea what i'm currently writing now 💀 ) 
+## Current Focus
 
+- Software Development
+- Mobile Application Development
+- Database Design and Management
+- UI/UX Design
+- Full-Stack Development
 
+## Portfolio
 
+This profile serves as a collection of my projects, coursework, experiments, and learning journey as I work towards a career in Software Engineering.
 
+---
 
-<!--
-**tenchiift/tenchiift** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
